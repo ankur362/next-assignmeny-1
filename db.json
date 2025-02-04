@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "c01b",
+      "text": "eat food",
+      "completed": false
+    },
+    {
+      "id": "761c",
+      "text": "play",
+      "completed": false
+    },
+    {
+      "id": "c35c",
+      "text": "go to school",
+      "completed": false
+    },
+    {
+      "id": "3881",
+      "text": "sleep",
+      "completed": false
+    }
+  ]
+}
