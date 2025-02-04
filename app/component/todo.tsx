@@ -95,9 +95,7 @@
                                    {todo.text}
                                </span>
                                <div>
-                                   <Link href={`/users/${todo.id}`}>
-                                   <span className="bg-green-500 text-white p-1 rounded hover:bg-green-600">View</span>
-                                   </Link>
+                                   
                                    <button onClick={() => deleteTodo(todo.id)} className="bg-red-500 text-white p-1 rounded ml-2 hover:bg-red-600">Delete</button>
                                </div>
                            </div>
